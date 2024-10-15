@@ -1,0 +1,15 @@
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Application.deps.json
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Application.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Application.pdb
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Core.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Core.pdb
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.csproj.AssemblyReference.cache
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.AssemblyInfoInputs.cache
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.AssemblyInfo.cs
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.csproj.CopyComplete
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\refint\EpidemiologicalTrackingSystem.Application.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Application.pdb
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Application\obj\Debug\net7.0\ref\EpidemiologicalTrackingSystem.Application.dll

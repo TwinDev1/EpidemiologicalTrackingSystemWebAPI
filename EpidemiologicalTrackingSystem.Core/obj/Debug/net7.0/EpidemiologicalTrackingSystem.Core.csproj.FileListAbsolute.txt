@@ -1,0 +1,11 @@
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Core.deps.json
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Core.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\bin\Debug\net7.0\EpidemiologicalTrackingSystem.Core.pdb
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Core.AssemblyInfo.cs
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Core.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\refint\EpidemiologicalTrackingSystem.Core.dll
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\EpidemiologicalTrackingSystem.Core.pdb
+C:\Users\alexi\EpidemiologicalTrackingSystem\EpidemiologicalTrackingSystem.Core\obj\Debug\net7.0\ref\EpidemiologicalTrackingSystem.Core.dll

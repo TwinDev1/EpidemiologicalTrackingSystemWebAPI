@@ -1,0 +1,153 @@
+{
+	"info": {
+		"_postman_id": "6b5f67c2-e5be-4ecf-ad40-8d4834b2ff87",
+		"name": "Epidemiological Tracking System",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20208610",
+		"_collection_link": "https://lunar-shuttle-346746.postman.co/workspace/DX1-APIS-Production~4348f8f6-e95a-4516-83d5-3df61315d386/collection/20208610-6b5f67c2-e5be-4ecf-ad40-8d4834b2ff87?action=share&source=collection_link&creator=20208610"
+	},
+	"item": [
+		{
+			"name": "Obtener todos los individuos diagnosticados",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7163/api/individuals",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7163",
+					"path": [
+						"api",
+						"individuals"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Obtener un individuo por su id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7163/api/individuals/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7163",
+					"path": [
+						"api",
+						"individuals",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Crear un nuevo individuo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Alexis Oramas\",\r\n    \"age\": 58,\r\n    \"symptoms\": [\"Fatiga\", \"Fiebre\", \"Dolor de Cabeza\"],\r\n    \"diagnosed\": true,\r\n    \"dateDiagnosed\": \"2024-01-10T00:00:00\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7163/api/individuals",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7163",
+					"path": [
+						"api",
+						"individuals"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar un individuo existente",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 1,\r\n    \"name\": \"Alexis Oramas\",\r\n    \"age\": 20,\r\n    \"symptoms\": [\"Mareo\", \"Tos\"],\r\n    \"diagnosed\": true,\r\n    \"dateDiagnosed\": \"2024-01-10T00:00:00\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7163/api/individuals/1\n",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7163",
+					"path": [
+						"api",
+						"individuals",
+						"1\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar un individuo por su id",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7163/api/individuals/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7163",
+					"path": [
+						"api",
+						"individuals",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

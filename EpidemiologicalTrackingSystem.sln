@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpidemiologicalTrackingSystem.Core", "EpidemiologicalTrackingSystem.Core\EpidemiologicalTrackingSystem.Core.csproj", "{1A712A9B-B15E-4DD2-81A3-CFB642ADE09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpidemiologicalTrackingSystem.Application", "EpidemiologicalTrackingSystem.Application\EpidemiologicalTrackingSystem.Application.csproj", "{96A49A16-6286-4AA1-8DE3-0BD70CD8B9CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpidemiologicalTrackingSystem.Infrastructure", "EpidemiologicalTrackingSystem.Infrastructure\EpidemiologicalTrackingSystem.Infrastructure.csproj", "{2BF5698C-8546-4BF6-AC9C-BA31C335F68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpidemiologicalTrackingSystem.WebAPI", "EpidemiologicalTrackingSystem.WebAPI\EpidemiologicalTrackingSystem.WebAPI.csproj", "{568744A3-F4B8-4E15-BE03-EF77522347C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A712A9B-B15E-4DD2-81A3-CFB642ADE09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A712A9B-B15E-4DD2-81A3-CFB642ADE09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A712A9B-B15E-4DD2-81A3-CFB642ADE09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A712A9B-B15E-4DD2-81A3-CFB642ADE09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A49A16-6286-4AA1-8DE3-0BD70CD8B9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A49A16-6286-4AA1-8DE3-0BD70CD8B9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A49A16-6286-4AA1-8DE3-0BD70CD8B9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A49A16-6286-4AA1-8DE3-0BD70CD8B9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF5698C-8546-4BF6-AC9C-BA31C335F68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF5698C-8546-4BF6-AC9C-BA31C335F68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF5698C-8546-4BF6-AC9C-BA31C335F68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF5698C-8546-4BF6-AC9C-BA31C335F68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568744A3-F4B8-4E15-BE03-EF77522347C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568744A3-F4B8-4E15-BE03-EF77522347C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568744A3-F4B8-4E15-BE03-EF77522347C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568744A3-F4B8-4E15-BE03-EF77522347C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

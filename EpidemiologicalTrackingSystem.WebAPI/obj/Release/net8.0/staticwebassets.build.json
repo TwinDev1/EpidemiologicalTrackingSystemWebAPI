@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "plMB1HkCH2nBlL+FIefvprL/iVG5LEuV96rfLfhEY5Y=",
+  "Source": "EpidemiologicalTrackingSystem.WebAPI",
+  "BasePath": "_content/EpidemiologicalTrackingSystem.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
